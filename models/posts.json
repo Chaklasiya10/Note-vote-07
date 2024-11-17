@@ -1,0 +1,114 @@
+[
+  {
+    "_id": 1,
+    "text": "The best way to learn coding is through practice.",
+    "creator": "User1",
+    "upvotes": [
+      "User2",
+      "jon",
+      "patel",
+      "alex",
+      "jchaklasiya"
+    ],
+    "downvotes": [
+      "samarth"
+    ]
+  },
+  {
+    "_id": 2,
+    "text": "I love using EJS for templating in Express apps!",
+    "creator": "User2",
+    "upvotes": [
+      "User1",
+      "samarth",
+      "alex",
+      "jchaklasiya"
+    ],
+    "downvotes": []
+  },
+  {
+    "_id": 3,
+    "text": "Can someone recommend good resources for learning Node.js?",
+    "creator": "jon",
+    "upvotes": [
+      "patel",
+      "jchaklasiya",
+      "samarth"
+    ],
+    "downvotes": [
+      "User1",
+      "User2"
+    ]
+  },
+  {
+    "_id": 4,
+    "text": "Express.js makes building web apps so much simpler.",
+    "creator": "patel",
+    "upvotes": [
+      "jon",
+      "alex",
+      "samarth",
+      "jchaklasiya"
+    ],
+    "downvotes": []
+  },
+  {
+    "_id": 5,
+    "text": "EJS templates are great, but React has more flexibility.",
+    "creator": "samarth",
+    "upvotes": [
+      "User1"
+    ],
+    "downvotes": [
+      "jchaklasiya",
+      "alex",
+      "samarth"
+    ]
+  },
+  {
+    "_id": 6,
+    "text": "What’s everyone’s favorite programming language and why?",
+    "creator": "jchaklasiya",
+    "upvotes": [
+      "User2",
+      "jchaklasiya"
+    ],
+    "downvotes": [
+      "samarth"
+    ]
+  },
+  {
+    "_id": 7,
+    "text": "How do you structure your JSON data for large applications?",
+    "creator": "alex",
+    "upvotes": [
+      "jchaklasiya",
+      "patel",
+      "jon",
+      "alex"
+    ],
+    "downvotes": [
+      "samarth"
+    ]
+  },
+  {
+    "_id": 1731801829846,
+    "text": "I want to learn code from the youtube",
+    "creator": "samarth",
+    "upvotes": [
+      "samarth"
+    ],
+    "downvotes": [
+      "jchaklasiya"
+    ]
+  },
+  {
+    "_id": 1731802994388,
+    "text": "i want to lean new things form code with harry",
+    "creator": "jchaklasiya",
+    "upvotes": [],
+    "downvotes": [
+      "jchaklasiya"
+    ]
+  }
+]
